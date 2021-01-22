@@ -1,0 +1,14 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression1">
+        <classes>
+            <class name="Example3">
+                <methods>
+                    <include name="gmailNavigation" />
+                </methods>
+            </class>
+            <class name="Example2_2">
+
+            </class>
+        </classes>
+    </test>
+</suite>
